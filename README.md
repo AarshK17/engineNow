@@ -1,3 +1,17 @@
-# engineNow
-### - Data Science Internship Project repository
-### - 1. Project_1 : This project focused on predicting customer churn using machine learning and customer behavior data. After performing data preprocessing, exploratory data analysis, and training classification models, the results showed that churn is strongly influenced by factors such as MonthlyCharges, tenure, TotalCharges, and Contract type. Among the models tested, Random Forest provided better performance compared to Logistic Regression due to its ability to capture complex patterns. Based on the insights, strategies like improving early customer retention, optimizing pricing plans, and encouraging long-term contracts can significantly help reduce churn and improve customer lifetime value.
+# engineNow  
+## Data Science Internship Project Repository  
+
+---
+
+## Project 1: Customer Churn Prediction  
+
+This project focuses on predicting customer churn using machine learning and customer behavior data.  
+After performing **data preprocessing**, **exploratory data analysis (EDA)**, and training classification models, the results show that churn is strongly influenced by factors such as **MonthlyCharges**, **tenure**, **TotalCharges**, and **Contract type**.  
+
+Among the models tested, **Random Forest** performed better than **Logistic Regression** due to its ability to capture complex patterns in the data.  
+
+### Key Takeaways
+- Churn is highly impacted by pricing and customer tenure  
+- Long-term contracts help reduce churn  
+- Early customer retention strategies can improve customer lifetime value (CLV)  
+
