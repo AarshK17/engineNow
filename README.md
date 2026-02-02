@@ -21,6 +21,7 @@ Among the models tested, **Random Forest** performed better than **Logistic Regr
 ## Project 2: Sales Forecasting & Demand Prediction  
 
 This project focuses on forecasting future sales using historical retail transaction data and presenting insights through an interactive dashboard.  
+
 The goal was to build an **end-to-end time series forecasting solution** integrating **data preprocessing**, **EDA**, **forecast modeling**, and **business visualization**.
 A **Prophet time-series forecasting model** was implemented to predict future demand, as it effectively captures trend and seasonal behavior in retail sales. Model performance was evaluated using **MAE** and **RMSE** metrics to validate forecast accuracy.
 
